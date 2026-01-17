@@ -12,10 +12,7 @@
     ],
     "labels": [
       "Specular shader",
-      "
+      "Texture"
       
-"thumbnail": "https://raw.githubusercontent.com/AirplanesAviation2361/Airplanesaviation2415/main/thumbnails/777-300ER.jpeg",
-"textures": [
-  "https://raw.githubusercontent.com/AirplanesAviation2361/Airplanesaviation2415/main/textures/777-300ER-flypakistan.jpeg"
-]
-
+"thumbnail":[ "https://raw.githubusercontent.com/AirplanesAviation2361/Airplanesaviation2415/main/thumbnails/777-300ER.jpeg"
+ "textures":[ "https://raw.githubusercontent.com/AirplanesAviation2361/Airplanesaviation2415/main/textures/777-300ER-flypakistan.jpeg"
