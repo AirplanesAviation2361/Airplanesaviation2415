@@ -459,12 +459,18 @@
             ]
         },
         "25": {
-            "name": "Boeing b777-300ER",
-            "liveries": [
-            ],
-            "labels": [
-                "Specular shader",
-                "Texture"
+            "25": {
+    "name": "Fly Pakistan – Boeing 777-300ER",
+    "liveries": [
+        "https://raw.githack.com/AirplanesAviation2361/Airplanesaviation2415/main/textures/flypakistan_777_fuselage.png",
+        "https://raw.githack.com/AirplanesAviation2361/Airplanesaviation2415/main/textures/777_wings.png",
+        "https://raw.githack.com/AirplanesAviation2361/Airplanesaviation2415/main/textures/flypakistan_777_tail.png"
+    ],
+    "labels": [
+        "Specular shader",
+        "Texture"
+    ]
+}
             ]
         },
         "4596": {
@@ -873,7 +879,6 @@
             ],
             "labels": [
                 "Texture"
-            ]
-        }
-    }
+            {
+  
 }
