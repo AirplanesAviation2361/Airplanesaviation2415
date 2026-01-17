@@ -1,5 +1,10 @@
-textures/777-300ER-flypakistan.png
-thumbnails/777-300ER.png
+Airplanesaviation2415
+│
+├─ textures/         
+│   └─ 777-300ER-flypakistan.jpeg
+├─ thumbnails/       
+│   └─ 777-300ER.jpeg
+└─ liveries.json
 
 {
   "25": {
@@ -19,3 +24,4 @@ thumbnails/777-300ER.png
     ]
   }
 }
+
